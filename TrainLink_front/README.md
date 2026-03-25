@@ -44,7 +44,9 @@ Priority handling for graduating students
 ****************************************************************************************************
 # 👥 Authors:
 Dalia Hamed Dwaikat(FrontEnd)
+
 Raghad Taqatqa (Backend)
+
 Supervisor: Dr. Amjad Abu Hassan
 ****************************************************************************************************
 # 📜 License
