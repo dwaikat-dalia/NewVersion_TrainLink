@@ -1,4 +1,4 @@
-🚆TrainLink
+🚆TrainLink <Graduation Project 1/2024>
 TrainLink is a cross-platform internship management system built to connect university students with training opportunities, while supporting companies and university supervisors throughout the entire training process. Developed as a graduation project at An-Najah National University.
 ****************************************************************************************************
 📌 Features:
